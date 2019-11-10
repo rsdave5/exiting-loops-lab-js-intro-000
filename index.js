@@ -1,6 +1,7 @@
-function breakOut(array, changeValue, stopValue) {
-  array.forEach( (number) => {
-    number = changeValue;
+for (let i = 0; i < array.length; i++) {
+  array[i] === `changeValue`;
+  if (array[i] === 'stopValue') {
     break;
-  })  return array;
-}
+  }
+} return array;
+};
